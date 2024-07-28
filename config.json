@@ -1,0 +1,8 @@
+{
+  "rpcURL": "",
+  "token": "",
+  "privateKey": "",
+  "timeout": 7,
+  "amount": 0.011,
+  "slippage": 0.5
+}
